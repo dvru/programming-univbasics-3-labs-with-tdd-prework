@@ -1,2 +1,1 @@
-first_number = "Hello World!"
-secong_number = ""
+first_number = "8"
